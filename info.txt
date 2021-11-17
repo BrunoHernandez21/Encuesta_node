@@ -1,0 +1,21 @@
+Programa sencillo para la ejecucion de node js
+Uso de clases
+Uso de multiples archivos 
+
+
+Para usar descarge la app o utilice la terminal del buscador
+
+asegurarse de utilizar las siguientes versiones 
+si no se conecta el telefono revisar TODO:
+
+dependencies:
+  flutter:
+    sdk: flutter
+  socket_io_client: ^0.9.11
+  provider: ^4.3.2+2
+
+"dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+}
